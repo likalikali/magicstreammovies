@@ -1,4 +1,4 @@
-import Button from 'react-bootstrap/button';
+import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 import "./Movie.css";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
