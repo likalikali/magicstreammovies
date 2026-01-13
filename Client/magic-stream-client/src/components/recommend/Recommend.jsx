@@ -1,6 +1,6 @@
 import useAxiosPrivate from "../../hook/useAxiosPrivate";
 import { useEffect, useState } from "react";
-import Movies from "../movies/movies.jsx";
+import Movies from "../movies/Movies.jsx";
 
 const Recommended = () =>{
     const [movies, setMovies] = useState([]);
