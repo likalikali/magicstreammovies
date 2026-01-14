@@ -29,7 +29,7 @@ func main() {
 	}
 
 
-	allowedOrigins := os.Getenv("ALLOWED_ORIGINS")
+	allowedOrigins := os.Getenv("ALLOW_ORIGINS")
 
 	var origins []string
 	if allowedOrigins != "" {
